@@ -1,0 +1,14 @@
+[0] Config.pm:312> INFO - This is Biber 2.15
+[0] Config.pm:315> INFO - Logfile is 'pres.blg'
+[110] biber:330> INFO - === lun jun 28, 2021, 08:35:08
+[127] Biber.pm:415> INFO - Reading 'pres.bcf'
+[216] Biber.pm:949> INFO - Using all citekeys in bib section 0
+[235] Biber.pm:4334> INFO - Processing section 0
+[248] Biber.pm:4523> INFO - Looking for bibtex format file 'bibliography.bib' for section 0
+[248] bibtex.pm:1682> INFO - LaTeX decoding ...
+[253] bibtex.pm:1494> INFO - Found BibTeX data source 'bibliography.bib'
+[328] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[328] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[328] Biber.pm:4162> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'es-ES'
+[335] bbl.pm:651> INFO - Writing 'pres.bbl' with encoding 'UTF-8'
+[338] bbl.pm:754> INFO - Output to pres.bbl

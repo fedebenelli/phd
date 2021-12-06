@@ -1,0 +1,5 @@
+[0] Config.pm:312> INFO - This is Biber 2.15
+[0] Config.pm:315> INFO - Logfile is 'pres.aux.blg'
+[97] biber:330> INFO - === dom jun 27, 2021, 23:31:17
+[139] Utils.pm:411> ERROR - Cannot find 'pres.aux.bcf'!
+[140] Biber.pm:132> INFO - ERRORS: 1
