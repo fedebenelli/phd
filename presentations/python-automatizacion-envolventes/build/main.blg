@@ -1,0 +1,9 @@
+[0] Config.pm:307> INFO - This is Biber 2.17
+[0] Config.pm:310> INFO - Logfile is 'build/main.blg'
+[36] biber:340> INFO - === Mon Jul 25, 2022, 00:31:45
+[44] Biber.pm:418> INFO - Reading 'build/main.bcf'
+[79] Biber.pm:969> INFO - Using all citekeys in bib section 0
+[86] Biber.pm:4383> INFO - Processing section 0
+[91] Biber.pm:4574> INFO - Looking for bibtex file 'bibliography.bib' for section 0
+[128] Utils.pm:409> ERROR - Cannot find 'bibliography.bib'!
+[128] Biber.pm:135> INFO - ERRORS: 1

@@ -1,0 +1,40 @@
+\newcommand{\titleframe}[1]{
+	\begin{frame} \null\hfill\huge{\shadowbox{#1}}\hspace{1cm} \end{frame}
+}
+
+\newcommand{\boxedeq}[2]{
+	\begin{empheq}[box={\fboxsep=6pt\fbox}]{align}\label{#1}#2\end{empheq}
+}
+
+\newcommand{\coloredeq}[2]{
+	\begin{empheq}[box=\colorbox{lightgreen}]{align}\label{#1}#2\end{empheq}
+}
+
+\newcommand{\fig}[3]{
+	\begin{columns}
+	\column{0.4\textwidth}
+	\begin{figure}[htp] 
+		\includegraphics[height=0.5\textheight,width=0.9\textwidth,
+	keepaspectratio]{#1}\caption{#2}\end{figure}
+	\column{0.6\textwidth}#3
+	\end{columns}
+}
+\newcommand{\tabitem}{~~\llap{\textbullet}~~}
+
+\newcommand{\htree}[1]{
+	\begin{forest}
+	for tree={
+	fit=band,
+	grow'=0,
+	parent anchor=children,
+	child anchor=parent,
+	anchor=parent,
+	if n children=0{folder}{},
+	edge path'={(!u.parent anchor) -- ++(5pt,0) |- (.child anchor)},
+	},
+	where n=1{
+	calign with current edge
+	}{},
+	#1
+	\end{forest}
+}

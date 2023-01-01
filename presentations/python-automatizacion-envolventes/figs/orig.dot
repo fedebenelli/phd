@@ -1,0 +1,5 @@
+digraph orig{rankdir=LR;
+    "envelIN.txt" -> "main.exe";
+    "main.exe" -> {"envelout1.txt" , "envelout2.txt"};
+}
+

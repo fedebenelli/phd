@@ -1,0 +1,153 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{jaeschke_92}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b2b595e63f60d1c849dd8bd2dd43ff71}{%
+           family={Jaeschke},
+           familyi={J\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=bfd26e6bca44cf947b776180e70d2e76}{%
+           family={Schley},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{9068782274368a8afa65dd68df918908}
+      \strng{fullhash}{9068782274368a8afa65dd68df918908}
+      \strng{bibnamehash}{9068782274368a8afa65dd68df918908}
+      \strng{authorbibnamehash}{9068782274368a8afa65dd68df918908}
+      \strng{authornamehash}{9068782274368a8afa65dd68df918908}
+      \strng{authorfullhash}{9068782274368a8afa65dd68df918908}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Ideal-gas thermodynamic properties for natural-gas applications}
+      \field{year}{1996}
+      \true{nocite}
+    \endentry
+    \entry{gerg_2004}{book}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=ea0274c3630e250b6673f849fd6d567b}{%
+           family={Kunz},
+           familyi={K\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=221b40a5ea9862d0d7fb4c09796d9ab1}{%
+           family={Wagner},
+           familyi={W\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=af6487983f13291641cce33e13574e07}{%
+           family={Klimeck},
+           familyi={K\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=b2b595e63f60d1c849dd8bd2dd43ff71}{%
+           family={Jaeschke},
+           familyi={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{7996560db6b7a5ccdc5a6828e18b5cd5}
+      \strng{fullhash}{993b376e2c05df91ecb8b2c23c717cfd}
+      \strng{bibnamehash}{7996560db6b7a5ccdc5a6828e18b5cd5}
+      \strng{authorbibnamehash}{7996560db6b7a5ccdc5a6828e18b5cd5}
+      \strng{authornamehash}{7996560db6b7a5ccdc5a6828e18b5cd5}
+      \strng{authorfullhash}{993b376e2c05df91ecb8b2c23c717cfd}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The GERG-2004 Wide-Range Equation of State for Natural Gases and Other Mixtures}
+      \field{year}{2007}
+      \true{nocite}
+    \endentry
+    \entry{lemmon_96}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e37438e3e5f1068c843adb1458d4bce2}{%
+           family={Lemmon},
+           familyi={L\bibinitperiod},
+           given={W.\bibnamedelimi E.},
+           giveni={W\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e37438e3e5f1068c843adb1458d4bce2}
+      \strng{fullhash}{e37438e3e5f1068c843adb1458d4bce2}
+      \strng{bibnamehash}{e37438e3e5f1068c843adb1458d4bce2}
+      \strng{authorbibnamehash}{e37438e3e5f1068c843adb1458d4bce2}
+      \strng{authornamehash}{e37438e3e5f1068c843adb1458d4bce2}
+      \strng{authorfullhash}{e37438e3e5f1068c843adb1458d4bce2}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A generalized model for the predicion of the thermodynamic properties of mixtures including vapor-liquide equilibrium}
+      \field{year}{1996}
+      \true{nocite}
+    \endentry
+    \entry{tillner_93}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2abe7bce27273c63d9d91bda9cd77667}{%
+           family={Tillner-Roth},
+           familyi={T\bibinithyphendelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{2abe7bce27273c63d9d91bda9cd77667}
+      \strng{fullhash}{2abe7bce27273c63d9d91bda9cd77667}
+      \strng{bibnamehash}{2abe7bce27273c63d9d91bda9cd77667}
+      \strng{authorbibnamehash}{2abe7bce27273c63d9d91bda9cd77667}
+      \strng{authornamehash}{2abe7bce27273c63d9d91bda9cd77667}
+      \strng{authorfullhash}{2abe7bce27273c63d9d91bda9cd77667}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Die thermodynamicshcen Eigenschaften von R152a R134a und ihren Gemischen-Messungen und Fundamentalgleischungen}
+      \field{year}{1993}
+      \true{nocite}
+    \endentry
+    \entry{gerg_2008}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a0c1a853a0e7023cdeb3dff759867b6f}{%
+           family={Wagner},
+           familyi={W\bibinitperiod},
+           given={Kunz;},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a0c1a853a0e7023cdeb3dff759867b6f}
+      \strng{fullhash}{a0c1a853a0e7023cdeb3dff759867b6f}
+      \strng{bibnamehash}{a0c1a853a0e7023cdeb3dff759867b6f}
+      \strng{authorbibnamehash}{a0c1a853a0e7023cdeb3dff759867b6f}
+      \strng{authornamehash}{a0c1a853a0e7023cdeb3dff759867b6f}
+      \strng{authorfullhash}{a0c1a853a0e7023cdeb3dff759867b6f}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The GERG-2008 Wide-Range Equation of State for Natural Gases and Other Mixtures: An Expansion of GERG-2004}
+      \field{year}{2012}
+      \true{nocite}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

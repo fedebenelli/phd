@@ -1,0 +1,16 @@
+\babel@toc {spanish}{}\relax 
+\beamer@sectionintoc {1}{Introducción}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Descripción del problema}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{Programa original}{4}{0}{1}
+\beamer@subsubsectionintoc {1}{2}{1}{Archivo de entrada}{5}{0}{1}
+\beamer@subsubsectionintoc {1}{2}{2}{Archivo de salida}{6}{0}{1}
+\beamer@sectionintoc {2}{Definición de casos de estudio}{7}{0}{2}
+\beamer@subsectionintoc {2}{1}{Metodología}{8}{0}{2}
+\beamer@sectionintoc {3}{Resolución en Python}{9}{0}{3}
+\beamer@subsectionintoc {3}{1}{Lectura de archivos Excel}{10}{0}{3}
+\beamer@subsectionintoc {3}{2}{Generación de archivos}{11}{0}{3}
+\beamer@subsectionintoc {3}{3}{Ejecución de programa Fortran}{13}{0}{3}
+\beamer@subsectionintoc {3}{4}{Generación de gráfico}{14}{0}{3}
+\beamer@subsectionintoc {3}{5}{Reacomodo de archivos}{17}{0}{3}
+\beamer@subsectionintoc {3}{6}{Tipos de interacción}{18}{0}{3}
+\beamer@subsectionintoc {3}{7}{Gráficos finales}{19}{0}{3}

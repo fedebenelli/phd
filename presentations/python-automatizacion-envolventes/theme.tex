@@ -1,0 +1,54 @@
+%\usetheme{Luebeck}
+%\usetheme{Marburg}
+%\usetheme{Goettingen}
+%\usetheme{Hannover}
+\usetheme{Antibes}
+%\usecolortheme{whale}
+
+\let\raggedright=\RaggedRight
+
+%-------------------------------------------------------------------------------
+\definecolor{lightgreen}{HTML}{90EE90}
+\colorlet{myyellow}{yellow!50}
+\usefonttheme{professionalfonts} % using non standard fonts for beamer
+%\setmainfont{IBM Plex Sans}
+%\setbeamertemplate{navigation symbols}{\insertlogo}
+\setbeamertemplate{navigation symbols}{}
+%-------------------------------------------------------------------------------
+
+%_______Configuro el paquete de listing____
+\lstset{
+    inputencoding=utf8,
+    extendedchars=true,
+    frame=lines,
+}
+
+\definecolor{black}{rgb}{0, 0, 0}
+\definecolor{codeblue}{rgb}{0,0.05,0.9}
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{codeorange}{rgb}{0.7,0.2,0.1}
+\definecolor{backcolour}{rgb}{0.90,0.90,0.90}
+
+
+\lstdefinestyle{mystyle}{
+    backgroundcolor=\color{backcolour},   
+    commentstyle=\color{codepurple},
+    keywordstyle=\color{codeblue},
+    numberstyle=\tiny\color{codegray},
+    stringstyle=\color{codeorange},
+    basicstyle=\ttfamily\footnotesize\color{black},
+    breakatwhitespace=false,         
+    breaklines=true,                 
+    captionpos=b,                    
+    keepspaces=true,                 
+    numbers=left,                    
+    numbersep=5pt,                  
+    showspaces=false,                
+    showstringspaces=false,
+    showtabs=false,                  
+    tabsize=4
+}
+
+\lstset{style=mystyle}

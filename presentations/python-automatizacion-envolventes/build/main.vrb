@@ -1,0 +1,14 @@
+\frametitle{Resolución con Python}
+    \framesubtitle{Interacción flexible}
+    \note{Para facilitar la operación, también se agregaron distintas opciones de
+    ejecución para evitar tener que calcular todo el Excel cada vez.}
+\begin{lstlisting}
+ - Correr Excel completo:
+ >>> python run_env23.py main.exe full caso.xlsx all
+
+ - Correr Hoja específica:
+ >>> python run_env23.py main.exe full caso.xlsx HOJA
+
+ - Correr envelIN.txt directamente:
+ >>> python run_env23.py main.exe single
+\end{lstlisting}

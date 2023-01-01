@@ -1,0 +1,21 @@
+\babel@toc {spanish}{}\relax 
+\beamer@sectionintoc {1}{Introducción}{2}{0}{1}
+\beamer@subsectionintoc {1}{1}{Ecuaciones de estado}{4}{0}{1}
+\beamer@subsectionintoc {1}{2}{Ecuaciones de estado multiparamétricas}{5}{0}{1}
+\beamer@subsubsectionintoc {1}{2}{1}{Antecedentes}{5}{0}{1}
+\beamer@subsubsectionintoc {1}{2}{2}{Estructura General}{6}{0}{1}
+\beamer@sectionintoc {2}{GERG 2008}{7}{0}{2}
+\beamer@subsectionintoc {2}{1}{Origen}{8}{0}{2}
+\beamer@subsectionintoc {2}{2}{Estructura}{9}{0}{2}
+\beamer@subsubsectionintoc {2}{2}{1}{Funciones reductoras}{10}{0}{2}
+\beamer@subsubsectionintoc {2}{2}{2}{Sustancia pura}{12}{0}{2}
+\beamer@subsubsectionintoc {2}{2}{3}{Término residual}{15}{0}{2}
+\beamer@subsectionintoc {2}{3}{Ajuste a datos experimentales}{22}{0}{2}
+\beamer@subsubsectionintoc {2}{3}{1}{Base de datos}{23}{0}{2}
+\beamer@subsubsectionintoc {2}{3}{2}{Métodos de ajuste}{27}{0}{2}
+\beamer@sectionintoc {3}{Comparación de incertidumbres}{30}{0}{3}
+\beamer@subsubsectionintoc {3}{0}{1}{Densidad}{32}{0}{3}
+\beamer@subsubsectionintoc {3}{0}{2}{Velocidad del sonido}{34}{0}{3}
+\beamer@subsubsectionintoc {3}{0}{3}{Punto de rocío}{36}{0}{3}
+\beamer@subsubsectionintoc {3}{0}{4}{Punto burbuja}{37}{0}{3}
+\beamer@sectionintoc {4}{Conclusiones}{38}{0}{4}

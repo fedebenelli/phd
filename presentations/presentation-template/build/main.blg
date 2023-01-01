@@ -1,0 +1,14 @@
+[0] Config.pm:307> INFO - This is Biber 2.17
+[0] Config.pm:310> INFO - Logfile is 'build/main.blg'
+[39] biber:340> INFO - === Sat Jul 23, 2022, 16:19:17
+[46] Biber.pm:418> INFO - Reading 'build/main.bcf'
+[83] Biber.pm:969> INFO - Using all citekeys in bib section 0
+[91] Biber.pm:4383> INFO - Processing section 0
+[96] Biber.pm:4574> INFO - Looking for bibtex file 'bibliography.bib' for section 0
+[98] bibtex.pm:1713> INFO - LaTeX decoding ...
+[101] bibtex.pm:1518> INFO - Found BibTeX data source 'bibliography.bib'
+[134] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[134] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[134] Biber.pm:4203> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'es-ES'
+[137] bbl.pm:654> INFO - Writing 'build/main.bbl' with encoding 'UTF-8'
+[139] bbl.pm:757> INFO - Output to build/main.bbl

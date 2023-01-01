@@ -1,0 +1,8 @@
+digraph script{rankdir=LR;
+    "Datos Excel" -> "infiles";
+    "infiles" -> "main.exe";
+    "main.exe" -> {"envelout1.txt" , "envelout2.txt", "enveloutN.txt"};
+    {"envelout1.txt" , "envelout2.txt", "enveloutN.txt"} -> "Grafico";
+    {"envelout1.txt" , "envelout2.txt", "enveloutN.txt", "Grafico"} -> "out folder";
+    "out folder" -> "infiles";
+}

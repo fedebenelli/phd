@@ -1,0 +1,3 @@
+[submodule "presentations/curso-linux"]
+	path = presentations/curso-linux
+	url = git@github.com:ipqa-unc-conicet/curso-linux.git

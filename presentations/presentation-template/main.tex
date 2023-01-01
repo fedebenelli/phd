@@ -1,0 +1,42 @@
+% !TEX program = xelatex
+\documentclass[aspectratio=1610,multi,rgb]{beamer}
+%\documentclass[12pt]{article}
+%\usepackage[noxcolor]{beamerarticle}
+
+\include{packages.tex}
+\include{theme.tex}
+\include{commands.tex}
+\include{beamer.tex}
+\addbibresource{bibliography.bib}
+
+%-------------------------------------------------------------------------------
+\title{PRESENTATION TITLE}
+\author{AUTHOR NAME}
+\institute{INSTITUTE}
+\date{\today}
+\logo{figs/ipqa-logo.png}
+%-------------------------------------------------------------------------------
+
+\begin{document}
+\nocite{*} % Show everything in bibliography file, even not cited
+
+\begin{frame}\maketitle\end{frame}
+\begin{frame}\tableofcontents\end{frame}
+
+\section{Introducción}\label{Introducción}
+\titleframe{\label{Introducción}}
+
+\begin{frame}[c]
+	\frametitle{Título}
+	\framesubtitle{Subtítulo}
+
+	Mucho texto
+	
+\end{frame}
+
+\begin{frame}[c]
+	\frametitle{Referencias}
+	\printbibliography
+\end{frame}
+
+\end{document}
