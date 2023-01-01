@@ -1,0 +1,21 @@
+flash_pt = pff.equilibrium.flash_pt
+
+composition = {'propane': 0.01, 'butane': 0.5, 'isobutane': 0.15,
+               'pentane': 0.2, 'hexane': 0.14}
+temperature = 366.48
+pressure = 1.039e6
+
+fluid = pff.Fluid(
+    model=pff.models.GERG2008(),
+    composition=composition,
+    temperature=temperature,
+    density=1,
+)
+
+vapor, liquid, beta, it = flash_pt(fluid, pressure, temperature)
+
+>>> vapor
+>>> Fluid(model=GERG2008, temperature=366.48, pressure=1039000.0000,
+..........density=0.4236, composition={'propane': 0.02405919, 'butane': 0.59222959,
+..........'isobutane': 0.22051554, 'pentane': 0.11992022, 'hexane': 0.04327129})
+
